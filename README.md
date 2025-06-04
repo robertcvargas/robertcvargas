@@ -24,4 +24,3 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 [youtube]: https://www.youtube.com/@cyberrob101
 [linkedin]: https://linkedin.com/in/robert-vargas
-
