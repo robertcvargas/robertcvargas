@@ -6,6 +6,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/robertcvargas/vulnerability-management-implementation)**
+- **[Windows Server 2019 Vulnerability Lab](windows-server-2019-vulnerability-lab.git)**
+
 
 
 ## 🚨 Threat Hunting and Security Operations
