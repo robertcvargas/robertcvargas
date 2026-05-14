@@ -5,9 +5,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/robertcvargas/vulnerability-management-program-implementation/tree/main)**
-- **[STIG Remediation With PowerShell Script]()** 
-<!--- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+- **[Vulnerability Management Program Implementation](https://[github.com/robertcvargas/vulnerability-management-program-implementation/tree/main](https://github.com/robertcvargas/vulnerability-management-implementation))**
+
 
 ## 🚨 Threat Hunting and Security Operations
 
