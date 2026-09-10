@@ -12,10 +12,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[COMING SOON]**
+- **[Azure Honeypot Threat Hunting Lab](https://github.com/robertcvargas/azure-honeypot-threat-hunting-lab.git)**
 
-<hr/>
--->
 
 ## 🤳 Connect With Me
 
