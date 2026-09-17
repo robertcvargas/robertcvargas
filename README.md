@@ -14,6 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ## 🛡️ Windows 11 STIG Remediation Scripts
+- **[WN11-AC-000005]
 
 ## 🤳 Connect With Me
 
