@@ -22,9 +22,5 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@cyberrob1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-vargas)
 
-
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@cyberrob1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-vargas)
-
 [youtube]: https://www.youtube.com/@cyberrob1
 [linkedin]: https://linkedin.com/in/robert-vargas
