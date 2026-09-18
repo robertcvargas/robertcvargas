@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Azure Honeypot Threat Hunting Lab](https://github.com/robertcvargas/azure-honeypot-threat-hunting-lab.git)**
 
 
-## 🛡️ Windows 11 STIG Remediation Scripts
+## 🛡️ Windows 11 STIG PowerShell Remediation Scripts
 - **[WN11-AC-000005](https://github.com/robertcvargas/automation/blob/main/PowerShell-STIG-Remediation-Scripts%20/WN11-AC-000005.ps1)**
 - **[WN11-CC-000040](https://github.com/robertcvargas/automation/blob/main/PowerShell-STIG-Remediation-Scripts%20/WN11-CC-000040.ps1)**
 
