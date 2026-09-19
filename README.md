@@ -17,6 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[WN11-AC-000005](https://github.com/robertcvargas/automation/blob/main/PowerShell-STIG-Remediation-Scripts%20/WN11-AC-000005.ps1)**
 - **[WN11-CC-000040](https://github.com/robertcvargas/automation/blob/main/PowerShell-STIG-Remediation-Scripts%20/WN11-CC-000040.ps1)**
 - **[WN110AC-000010](https://github.com/robertcvargas/automation/blob/main/PowerShell-STIG-Remediation-Scripts%20/WN11-AC-000010.ps1)**
+- **[WN11-CC-000007](https://github.com/robertcvargas/automation/blob/main/PowerShell-STIG-Remediation-Scripts%20/WN11-CC-000007.ps1)**
 
 ## 🤳 Connect With Me
 
