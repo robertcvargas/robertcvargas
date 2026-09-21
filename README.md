@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Azure Honeypot Threat Hunting Lab](https://github.com/robertcvargas/azure-honeypot-threat-hunting-lab.git)**
-- **[JadePuffer - Agentic Randsomware Instrusion on the Flowforge Estate](https://github.com/robertcvargas/jadepuffer-agentic-ransomware-hunt/blob/main/jadepuffer-agentic-ransomware-hunt)**
+- **[JadePuffer - Agentic Randsomware Instrusion on the Flowforge Estate](https://github.com/robertcvargas/jadepuffer-agentic-ransomware-hunt/blob/main/readme.md)**
 
 
 ## 🛡️ Windows 11 STIG PowerShell Remediation Scripts
